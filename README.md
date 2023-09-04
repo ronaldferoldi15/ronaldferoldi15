@@ -7,3 +7,12 @@
 
 </br>
 </br>
+
+tenho 16 anos, moro em sao jose das palmeira/ e ou aluno da disciplina de pemsamento computacional.
+
+</br>
+</br>
+
+### tecnologias e ferramentas :
+</code>
+</code>
